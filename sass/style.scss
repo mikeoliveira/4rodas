@@ -8,7 +8,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FBB040 !default;
+$brand-primary: #F01616 !default;
 $brand-white: #fff;
 $brand-black: #000;
 $brand-darker: #444;
@@ -586,7 +586,7 @@ pre {
 			}
 		i {
 			font-size: 100px;
-			color: #FBB040;
+			color: #F01616;
 			@media screen and (max-width: $screen-sm) {
 				font-size: 50px;
 				margin-top: 10px;
@@ -921,7 +921,7 @@ pre {
 .owl-carousel-fullwidth {
 
 	.item, .fh5co-owl-text-wrap {
-		height: 800px;
+		height: 650px;
 		display: table;
 		width: 100%;
 	}
@@ -1060,4 +1060,10 @@ a > img {
 		margin-left: auto;
 		margin-right: auto
 	}
+}
+
+.logo-topo,
+.logo-rodape{
+	max-width: 150px;
+	text-align: left;
 }
