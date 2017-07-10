@@ -1,8 +1,8 @@
+Teste Front-end --> Computecnica Tecnologia 
 
-TITLE: 
+
+Template: 
 Booster - Responsive Free HTML5 template
-
-AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
 http://freehtml5.co/
 
