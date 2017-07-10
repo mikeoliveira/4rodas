@@ -1,5 +1,24 @@
 Teste Front-end --> Computecnica Tecnologia 
 
+Sobre o Js do menu podemos fazer de duas formas, utilizar as classes do framework bootstrap (exemplo A) ou JQUERY (Exemplo B), possui bom dominio sobre ambas tecnologias.
+
+Exemplo A:
+"NAVBAR-TOGGLE COLLAPSED" é a classe que controla o menu quando --> por default só aparece quando responsivo
+
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+</button>
+
+Exemplo B: 
+
+('#...').toggle();
+
+Possuo um exemplo neste projeto no arquivo menu-toggle.html
+
+
 
 Template: 
 Booster - Responsive Free HTML5 template
